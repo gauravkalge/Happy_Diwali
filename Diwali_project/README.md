@@ -2,6 +2,7 @@
  
  Install
 pip3 install wasabi2d
+
 pip3 install pyttsx3
 
 Run 
